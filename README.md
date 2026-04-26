@@ -8,3 +8,4 @@ The tested models are Open-VINS for VIO and LIO-SAM for LIO.
 
 ## Testing OpenVINS on synthetic monocular camera and IMU data generated in Isaac Sim
 
+OpenVINS on Isaac Sim Data – RViz Visualization

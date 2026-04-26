@@ -19,7 +19,7 @@ The tested models are Open-VINS and LIO-SAM.
 <br>
 
 <p align="center">
-<b>OpenVINS on Isaac Sim Data – RViz Visualization
+<b>Isaac Sim Configuration
 </b><br>
 <img src="isaacsim_vio_config.png" width="80%">
 </p>

@@ -24,7 +24,9 @@ The tested models are Open-VINS and LIO-SAM.
 <img src="isaacsim_vio_config.png" width="80%">
 </p>
 
+<br>
 
 ## Testing OpenVINS on synthetic monocular camera and IMU data generated in Isaac Sim
 
 <br>
+

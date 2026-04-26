@@ -26,7 +26,7 @@ The tested models are Open-VINS and LIO-SAM.
 
 <br>
 
-## Testing OpenVINS on synthetic monocular camera and IMU data generated in Isaac Sim
+## Testing LIO-SAM on synthetic LiDAR-inertial data generated in Isaac Sim
 
 <br>
 

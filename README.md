@@ -1,4 +1,4 @@
-# VIO-LIO-Syntetic-IsaacSim*
+# VIO-LIO-Syntetic-IsaacSim
 
 This mini-project is still a work in progress.
 

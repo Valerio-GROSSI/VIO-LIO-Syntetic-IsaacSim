@@ -8,9 +8,10 @@ The tested models are Open-VINS and LIO-SAM.
 
 ## Testing OpenVINS on synthetic monocular camera and IMU data generated in Isaac Sim
 
+<br>
+
 <p align="center">
 <b>OpenVINS on Isaac Sim Data – RViz Visualization
 </b><br>
-YOLO11 Ultralytics<br>
-<img src="assets/detection.gif" width="80%">
+<img src="open_vins_isaacsim_syntetic_data.gif" width="80%">
 </p>
